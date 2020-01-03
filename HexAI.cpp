@@ -12,7 +12,11 @@
 #include <sstream>
 #include <unordered_map>
 #include <vector>
-// Romain Garnier 3/1/2020. Apache License 2.0.
+/*Hex game with artificial intelligence using Monte Carlo simulation.  
+Author: 
+ Romain Garnier <rom1{dot}garnier{at}yahoo{dot}fr>.    
+Licensing provisions:    
+ Apache 2.0 license.*/
 // Compile with
 // g++ -Wall -Wextra -Wpedantic -Wconversion HexAI.cpp -o HexAI
 // Execute with
