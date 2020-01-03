@@ -1,4 +1,5 @@
 # HexAI
+Romain Garnier 3/1/2020. Apache 2.0 license.
 Hex game with artificial intelligence using Monte Carlo simulation.
 
 Finds shortest paths from src to all other vertices with union-find data structure 
