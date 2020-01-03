@@ -12,7 +12,7 @@
 #include <sstream>
 #include <unordered_map>
 #include <vector>
-// Romain Garnier 3/1/2020
+// Romain Garnier 3/1/2020. Apache 2.0 license.
 // Compile with
 // g++ -Wall -Wextra -Wpedantic -Wconversion HexAI.cpp -o HexAI
 // Execute with
