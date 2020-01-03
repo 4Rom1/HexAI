@@ -12,7 +12,7 @@
 #include <sstream>
 #include <unordered_map>
 #include <vector>
-// Romain Garnier
+// Romain Garnier 3/1/2020
 // Compile with
 // g++ -Wall -Wextra -Wpedantic -Wconversion HexAI.cpp -o HexAI
 // Execute with
